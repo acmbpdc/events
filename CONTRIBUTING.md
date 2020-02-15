@@ -19,7 +19,7 @@ Each event must have a dedicated folder titled `YYYY-MM-DD-event-title/` with th
 
 ### Collaboration
 
-- Create a branch `dev:your-github-username`.
+- Create a branch `dev-your-github-username`.
   Use this new branch as yours.
   Avoid using the `master` branch or any other branch.
 
